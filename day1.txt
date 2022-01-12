@@ -1,0 +1,6 @@
+My first git learning
+Created a new branch
+Commands : git clone https..
+git checkout branchname
+git checkout -b newbranchname 
+vi filename.txt 
